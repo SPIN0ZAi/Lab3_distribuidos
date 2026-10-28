@@ -27,8 +27,4 @@ class Program
 
         return configurationBuilder.Build();
     }
-
-    
-
-    
 }
